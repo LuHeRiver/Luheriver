@@ -1,17 +1,10 @@
 ### Hi There!! 👋
 
-GitHub Profile
+### GitHub Profile
 
-✨Lucero Hernández✨.
+✨_ Lucero Hernández Riveros _✨
 
-- 🔭 I’m currently study on BootCamp Fullstack Web Development.
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Fullstack Web Development.
 -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luheriver)](https://github.com/Luheriver/github-readme-stats&include_all_commits=true) -->

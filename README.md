@@ -4,7 +4,7 @@
 
 ✨ Lucero Hernández Riveros ✨
 
-💻 Fullstack Web Development
+💻 Fullstack Web Developer
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luheriver)](https://github.com/Luheriver/github-readme-stats&include_all_commits=true) -->
 

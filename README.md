@@ -2,7 +2,7 @@
 
 GitHub Profile
 
-**Lucero Hernández**✨✨.
+✨Lucero Hernández✨.
 
 - 🔭 I’m currently study on BootCamp Fullstack Web Development.
 - 🌱 I’m currently learning JavaScript

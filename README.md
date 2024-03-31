@@ -2,10 +2,9 @@
 
 ### GitHub Profile
 
-✨_ Lucero Hernández Riveros _✨
+✨ Lucero Hernández Riveros ✨
 
-- 🔭 Fullstack Web Development.
--->
+💻 Fullstack Web Development
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luheriver)](https://github.com/Luheriver/github-readme-stats&include_all_commits=true) -->
 

@@ -2,7 +2,7 @@
 
 GitHub Profile
 
-**LuHeRiver/Luheriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lucero Hernández**✨✨.
 
 - 🔭 I’m currently study on BootCamp Fullstack Web Development.
 - 🌱 I’m currently learning JavaScript
